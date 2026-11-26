@@ -3,6 +3,13 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  background-color: #ffffff;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
 img {
@@ -10,8 +17,6 @@ img {
 }
 
 .list {
-  margin: 0;
-  padding: 0;
   list-style: none;
 }
 
@@ -34,7 +39,6 @@ img {
 }
 
 .section-title {
-  margin: 0 0 72px;
   font-size: 36px;
   line-height: 1.11;
   text-align: center;

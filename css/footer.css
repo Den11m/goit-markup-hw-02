@@ -1,5 +1,4 @@
 .footer {
-  padding: 100px 0;
   background-color: #2e2f42;
 }
 
@@ -7,7 +6,10 @@
   color: #f4f4fd;
 }
 
+.footer-logo .logo-accent {
+  color: #4d5ae5;
+}
+
 .footer-text {
-  margin: 16px 0 0;
   color: #f4f4fd;
 }
